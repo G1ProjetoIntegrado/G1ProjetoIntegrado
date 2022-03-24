@@ -8,14 +8,9 @@
 - Sabrina Gabriele dos Santos. 
 
 
-<div align="center">
+<div align="side">
 <a href="https://github.com/G1ProjetoIntegrado">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=G1ProjetoIntegrado&show_icons=true&theme=merko&include_all_commits=true&count_public=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=G1ProjetoIntegrado&layout=compact&langs_count=7&theme=merko"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=G1ProjetoIntegrado&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_public=true"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=G1ProjetoIntegrado&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
- 
-  &nbsp;
-  <div align="center"> 
-   <a href = "mailto:g1projetointegrado2022@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
-  </div>
 
