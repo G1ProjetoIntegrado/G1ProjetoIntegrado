@@ -1,16 +1,21 @@
-### Hi there 👋
+  Grupo 03 do projeto integrado da turma de "Desenvolvimento de Software" da escola Francisco Moreira da Costa (ETE FMC).
 
-<!--
-**G1ProjetoIntegrado/G1ProjetoIntegrado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Integrantes:
+- Ana Lívia Silva Paiva; 
+- João Gabriel da Mata Rosa; 
+- Matheus Henrique Ferreira Brás; 
+- Nydia Jodar Teles dos Santos; 
+- Sabrina Gabriele dos Santos. 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+<a href="https://github.com/G1ProjetoIntegrado">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ProjetoIntegradods03&show_icons=true&theme=merko&include_all_commits=true&count_public=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=G1ProjetoIntegrado&layout=compact&langs_count=7&theme=merko"/>
+</div>
+ 
+  &nbsp;
+  <div align="center"> 
+   <a href = "mailto:g1projetointegrado2022@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
+  </div>
+
