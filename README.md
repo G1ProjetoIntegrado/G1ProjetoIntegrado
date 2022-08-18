@@ -4,8 +4,10 @@
 - Ana Lívia Silva Paiva; 
 - João Gabriel da Mata Rosa; 
 - Matheus Henrique Ferreira Brás; 
-- Yasmin Vasconcelos Leite; 
-- Sabrina Gabriele dos Santos. 
+- Maria Eduarda Andrade Pereira;
+- Sabrina Gabriele dos Santos; 
+- Yasmin Vasconcelos Leite.
+
 
 
 <div align="side">
