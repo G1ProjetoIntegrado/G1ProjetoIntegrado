@@ -3,8 +3,8 @@
 ## Integrantes:
 - Ana Lívia Silva Paiva; 
 - João Gabriel da Mata Rosa; 
-- Matheus Henrique Ferreira Brás; 
 - Maria Eduarda Andrade Pereira;
+- Matheus Henrique Ferreira Brás; 
 - Sabrina Gabriele dos Santos; 
 - Yasmin Vasconcelos Leite.
 
